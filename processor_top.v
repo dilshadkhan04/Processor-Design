@@ -49,7 +49,7 @@
  
  
  
-module top(
+module processor_top(
 input clk,sys_rst,
 input [15:0] din,
 output reg [15:0] dout
